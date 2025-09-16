@@ -41,11 +41,17 @@
 AULA DO DIA 16/09
 
 Placa Mãe AMD
+
 A- Entrada
+
 B- Intermediário
+
 X- Topo de linha
 
 Placa Mãe INTEL
 
+
 H- ENTRADA
+
 2- Topo de linha 
+
