@@ -84,6 +84,38 @@ PLACA 1
 
 20- MEMORIA RAM
 
+PLACA 2
+
+1-Socket
+
+2-
+
+3- PWN
+
+4-Memóris Ram
+
+5-Fonte CPU 2x2
+
+6-Debug Led
+
+7-ATX
+
+8-SATA
+
+9-USB C
+
+10- 
+
+11- USB
+
+12-
+
+13-Pci x1
+
+14-Bateria 
+
+15-Pci E
+
 AULA DO DIA 16/09
 
 Placa Mãe AMD
