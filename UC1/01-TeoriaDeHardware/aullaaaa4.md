@@ -131,5 +131,9 @@ Placa Mãe INTEL
 
 H- ENTRADA
 
-2- Topo de linha 
+B- Topo de linha 
+
+
+
+
 
