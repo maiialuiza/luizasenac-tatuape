@@ -118,20 +118,36 @@ PLACA 2
 
 AULA DO DIA 16/09
 
-Placa Mãe AMD
+Placa mãe
 
-A- Entrada
+AMD Ams (Ryzen 7000, 8000, 9000)
 
-B- Intermediário
+A - Entrada (A620) Não Overclock
 
-X- Topo de linha
+B - Intermediaria (B650 e B840 B850)
 
-Placa Mãe INTEL
+X - Topo de Linha (X670 e X870)
 
 
-H- ENTRADA
+++++* Asus - Gigabyte (Aorus) - MSI
 
-B- Topo de linha 
+- ASRock
+
+
++++
+
+BIOSTAR - Colorfull - Maxsun
+
+Intel
+
+
+H - Entrada ()
+
+B - Intermediaria
+
+Z - Topo de Linha
+
+() Só Overclock
 
 
 
