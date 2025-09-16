@@ -40,27 +40,48 @@
 
 Aula do dia 11/09 - Placa Mãe
 
+
 PLACA 1
 
+
 1- CPU (4+4)
+
 2- VRM
+
 3-socket do processador
+
 4- PWM FAN
+
 5- ARGB
+
 6- DEBUG
+
 7- ATX
+
 8- USB 3.X
+
 9- USB C
+
 10- CHA FAN
+
 11-SATA
+
 12- PAINEL FRONTAL
+
 13- USB 2.0
+
 14- AUDIO
+
 15- NVME SSD
+
 16- PLACA DE VIDEO
+
 17-PCI E 1X
+
 18- PCI EXPRESS 4X
+
 19- BATERIA
+
 20- MEMORIA RAM
 
 AULA DO DIA 16/09
