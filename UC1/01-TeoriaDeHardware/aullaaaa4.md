@@ -149,6 +149,11 @@ Z - Topo de Linha
 
 () Só Overclock
 
+AULA DO DIA 19/09
+
+Quando termina com 50 é a mais básica
+Quando termina com 60 é a intermediária
+Quando termina com 70 é a Intermediária para TOP
 
 
 
