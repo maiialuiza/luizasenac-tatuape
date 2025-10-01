@@ -31,4 +31,3 @@ O arquivo **README.md** será atualizado gradativamente conforme novas UCs forem
 
 ---
 
-✍️ Autor: *[Seu Nome Aqui]*  
